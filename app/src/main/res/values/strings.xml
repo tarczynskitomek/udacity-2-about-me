@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">About me</string>
     <string name="name">Tomek Tarczyński</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">I am a Software Developer with focus on Java and JVM ecosystem.\n\n
+        Since the early childhood I\'ve been enchanted by technology and wanted to become a software developer. At first, that didn\'t happen - encouraged by family I\'ve selected a different career path and graduated in Medieval History. But I didn\'t fall in love with the life at the university so we\'ve split our paths. For the past 2+ years I\'ve been working as a Software Developer in Warsaw, coding in international projects, being on the front line in direct contact with customers from all over the Europe, polishing both my technical and soft skills. Those two years has taught me to appreciate clean, testable, code, functional approach to programming, and that there's an ocean of knowledge which is still before me.
+        \n\nAnd so, here I am fulfilling my childhood dreams, making the magic happen.</string>
+    <string name="nickname">Nickname</string>
+    <string name="nickname_hint">What\'s your nickname</string>
+    <string name="done">Done</string>
 </resources>
